@@ -1,0 +1,86 @@
+body {
+  background-repeat: no-repeat;
+  background-size: 1552px 786px;
+    line-height: 40px;
+    color: green;
+    background-color: #F5D769;
+   
+}
+.deselect {
+    opacity: 0.6;
+    background-color: #8c8c8c;
+}
+
+#images {
+	position: relative;
+	right: 70%;
+}
+
+#topBunImg {
+	position: absolute;
+}
+
+#letImg {
+	position: absolute;		
+    top: 10px;
+    z-index: -1
+}
+
+#tomImg {
+	position: absolute;		
+    top: 10px;
+    z-index: -2;
+}
+
+#oniImg {
+	position: absolute;		
+    top: 5px;
+    z-index: -3;
+}
+
+#cheImg {
+	position: absolute;		
+    top: 10px;
+    z-index: -4;
+}
+
+#beeImg {
+	position: absolute;		
+    top: 10px;
+    z-index: -5;
+}
+
+#botBunImg {
+	position: absolute;		
+    top: 10px;
+    z-index: -6;
+}
+
+
+@media screen and (min-width: 576px) {
+    #images {
+        right: 45%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    #images {
+        right: 40%;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    #images {
+        right: 32%;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    #images {
+        right: 27%;
+    }
+}
+
+
+
+
