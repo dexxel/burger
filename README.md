@@ -1,7 +1,7 @@
 # Burger
 
 **Link to App Demo** 
-[Click Here for Live Link!](ttps://floating-cove-20821.herokuapp.com/)
+[Click Here for Live Link!](https://floating-cove-20821.herokuapp.com/)
 
 ## Node - Express - Handlebars - MySQL - Heroku 
 
